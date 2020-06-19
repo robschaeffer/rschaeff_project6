@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">rschaeff_project6</string>
+    <string name="txt_title">Chess Buddy</string>
+    <string name="button_rules">Rules and Pieces</string>
+    <string name="button_timer">Game Clock</string>
+    <string name="button_news">Chess News</string>
+    <string name="button_pawn">PAWN</string>
+    <string name="button_bishop">BISHOP</string>
+    <string name="button_knight">KNIGHT</string>
+    <string name="button_rook">ROOK</string>
+    <string name="button_queen">QUEEN</string>
+    <string name="button_king">KING</string>
+    <string name="descrip_pawn">At the beginning of the game each side has 8 pawns. Except on its first move, a pawn may only move one square forward at a time. Pawns can never move backwards. When a pawn makes its very first move it has a choice; it can either move one square or two. However, it moves one square in all following moves. If the square immediately in front of the pawn contains another piece then the pawn is unable to move forward. It is blocked. Although a pawn moves straight forward it captures by talking one square diagonally forward. When a pawn reaches the other end of the board it can be changed for any other piece of its own colour, except the King. This is called promotion.</string>
+    <string name="descrip_bishop">Each player has a dark square and light square bishop. Bishops can move and capture diagonally only. A bishop cannot jump over/through its own pieces.</string>
+    <string name="descrip_knight">The knight can move/capture only in an \"L\" shaped pattern(2 squares sideways and 1 up or down...or 2 squares up or down and 1 square sideways). The knight is the only piece that can jump over its own and its opponents pieces.</string>
+    <string name="descrip_rook">The rook can move/capture horizontally and vertically in straight lines.</string>
+    <string name="descrip_queen">The queen is the most powerful piece on the board, being that she can move vertically, horizontally, and diagonally freely as long as she is not blocked by her own pieces.</string>
+    <string name="descrip_king">The king is the \"objective\" piece of the game. The goal is to trap the opponent\'s king in a position called \"checkmate\", where he is under attack and cannot be moved to safety. The king can move one square at a time in any direction, and is forced to move if under attack.</string>
+    <string name="descrip_objective">Each player begins with 16 pieces: one king, one queen, two rooks, two knights, two bishops, and eight pawns. Each piece type moves differently, with the most powerful being the queen and the least powerful the pawn. The objective is to checkmate the opponent\'s king by placing it under an inescapable threat of capture. To this end, a player\'s pieces are used to attack and capture the opponent\'s pieces, while supporting one another. During the game, play typically involves exchanging pieces for the opponent\'s similar pieces, and finding and engineering opportunities to trade advantageously or to get a better position. In addition to checkmate, a player wins the game if the opponent resigns, or, in a timed game, runs out of time.</string>
+    <string name="txt_objective">OBJECTIVE</string>
+    <string name="button_reset">RESET</string>
+    <string name="clock_default">5:00</string>
+    <string name="btn_chesscom">Chess.com</string>
+    <string name="btn_chessbase">Chess Base</string>
+    <string name="btn_fide">FIDE</string>
+    <string name="btn_chess24">Chess24</string>
+</resources>
